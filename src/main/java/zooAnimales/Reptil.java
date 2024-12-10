@@ -88,7 +88,7 @@ public class Reptil extends Animal{
     }
 
     public int getLargoCola(){
-        return(this.largoCola)
+        return(this.largoCola);
 
 
     }
