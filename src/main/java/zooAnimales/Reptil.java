@@ -88,12 +88,12 @@ public class Reptil extends Animal{
     }
 
     public int getLargoCola(){
-        return(this.largoCola);
+        return(this.largoCola)
 
 
     }
     public void setLargoCola(int largoCola){
-        this.largoCola = largoCola
+        this.largoCola = largoCola;
 
 
     }
